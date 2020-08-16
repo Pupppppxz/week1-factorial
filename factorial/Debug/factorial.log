@@ -1,0 +1,5 @@
+﻿  factorial.cpp
+C:\Users\Asarawoot\source\repos\factorial\factorial\factorial.cpp(18,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'unsigned __int64'
+C:\Users\Asarawoot\source\repos\factorial\factorial\factorial.cpp(18,10): message : consider using '%lld' in the format string
+C:\Users\Asarawoot\source\repos\factorial\factorial\factorial.cpp(18,10): message : consider using '%I64d' in the format string
+  factorial.vcxproj -> C:\Users\Asarawoot\source\repos\factorial\Debug\factorial.exe
